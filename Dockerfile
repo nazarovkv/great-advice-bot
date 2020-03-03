@@ -1,6 +1,6 @@
 FROM docker.io/python
 
-COPY ../app /app/
+COPY app /app/
 
 EXPOSE 8000
 
